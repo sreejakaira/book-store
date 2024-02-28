@@ -2,14 +2,14 @@ import {Component} from "react";
 
 import "./index.css";
 
-class Home extends Component{
+class Checkout extends Component{
     render(){
         return(
             <div>
-                Home
+                Checkout
             </div>
         )
     }
 }
 
-export default Home 
+export default Checkout
